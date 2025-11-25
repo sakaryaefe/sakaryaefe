@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 I’m Efe Sakarya, a Computer Science student at the California Institute of Technology (Caltech) minoring in Robotics. I’m passionate about building intelligent systems that combine machine learning, robotics, and sustainability to solve complex, real-world problems.
+👋 I’m Efe Sakarya, a Computer Science student at the California Institute of Technology (Caltech). I’m passionate about building intelligent systems that combine machine learning, robotics, and sustainability to solve complex, real-world problems.
 
 💻 As a Frontend Developer at Martrio, I design and build scalable, production-ready web applications using Next.js, React, Tailwind CSS, and Shadcn/UI. My focus lies in performance optimization, authentication flows, and API integration — ensuring responsive, user-centered interfaces and clean, maintainable codebases.
 
